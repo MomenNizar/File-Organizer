@@ -1,0 +1,13 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
