@@ -33,4 +33,5 @@ Examples
 -Organize only .jpg and .png files by date:
     python file_organizer.py --source ~/Pictures --method date --extensions .jpg .png
 
-This tool is lightweight, requires no extra libraries, and is perfect for anyone who wants to automate file organization quickly and efficiently.
+This tool is lightweight, requires no extra libraries, and is perfect for anyone who wants to
+automate file organization quickly and efficiently.
